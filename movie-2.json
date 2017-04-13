@@ -1,16 +1,26 @@
 [
   {
-    "name": "King Kong",
-    "genre" : "Adventure",
+    "name": "Tanked",
+    "genre" : "Series",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
   },
   {
-    "name": "Fast and Furious",
-    "genre" : "Action",
-    
+    "name": "Suits",
+    "genre" : "Series",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
   },
   {
-    "name": "Taken",
-    "genre" : "Action",
-    
+    "name": "Shooter",
+    "genre" : "Series",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
   }
 ]
