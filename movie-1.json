@@ -1,17 +1,17 @@
 [
   {
     "name": "Meowsy",
-    "species" : "cat",
+    "genre" : "cat",
     "foods":
   },
   {
     "name": "Barky",
-    "species" : "dog",
-    "foods":
+    "genre" : "dog",
+    "genre":
   },
   {
     "name": "Purrpaws",
-    "species" : "cat",
+    "genre" : "cat",
     "foods":
   }
 ]
