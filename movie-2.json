@@ -1,17 +1,26 @@
 [
   {
-    "name": "Tanked",
-    "genre" : "Series",
-    "released": 
+    "name": "Meowsy",
+    "genre" : "cat",
+    "a": {
+      "a": ["a", "a"],
+      "a": ["a", "a"]
+    }
   },
   {
-    "name": "Suits",
-    "genre" : "Series",
-    "released": 
+    "name": "ahdsgf",
+    "genre" : "iyture",
+    "a": {
+      "a": ["a", "a"],
+      "a": ["a"]
+    }
   },
   {
-    "name": "Shooter",
-    "genre" : "Series",
-    "released": 
+    "name": "Purrpaws",
+    "genre" : "cat",
+    "a": {
+      "a": ["a"],
+      "a": ["a"]
+    }
   }
 ]
