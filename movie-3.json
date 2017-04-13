@@ -1,16 +1,26 @@
 [
   {
-    "name": "Ring",
+    "name": "aWanted",
+    "genre" : "Action",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
+  },
+  {
+    "name": "bTaken",
+    "genre" : "Action",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "cRing",
     "genre" : "Horror",
-  },
-  {
-    "name": "Get Out",
-    "genre" : "Action",
-    
-  },
-  {
-    "name": "Taken 3",
-    "genre" : "Action",
-    
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
   }
 ]
