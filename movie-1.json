@@ -2,16 +2,25 @@
   {
     "name": "Meowsy",
     "genre" : "cat",
-    "foods":
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
   },
   {
     "name": "Barky",
     "genre" : "dog",
-    "genre":
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
   },
   {
     "name": "Purrpaws",
     "genre" : "cat",
-    "foods":
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
   }
 ]
