@@ -1,18 +1,26 @@
 [
   {
-    "name": "Meowsy",
-    "genre" : "cat",
-    "foods":
-  },
-  {
-    "name": "Barky",
-    "genre" : "dog",
-    "foods":
+    "name": "Hancock",
+    "genre" : "Action",
+    "a": {
+      "a": ["a", "a"],
+      "a": ["a", "a"]
     }
   },
   {
-    "name": "Purrpaws",
-    "genre" : "cat",
-    "food":
+    "name": "Hoosh",
+    "genre" : "Horror",
+    "a": {
+      "a": ["a", "a"],
+      "a": ["a"]
+    }
+  },
+  {
+    "name": "Killers",
+    "genre" : "Crime",
+    "a": {
+      "a": ["a"],
+      "a": ["a"]
+    }
   }
 ]
