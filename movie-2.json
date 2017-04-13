@@ -2,16 +2,16 @@
   {
     "name": "Tanked",
     "genre" : "Series",
-    "released": "2008",
+    "released": 2008,
   },
   {
     "name": "Suits",
     "genre" : "Series",
-    "released": "2008", 
+    "released": 2008, 
   },
   {
     "name": "Shooter",
     "genre" : "Series",
-    "released": "2008", 
+    "released": 2008, 
   }
 ]
