@@ -1,16 +1,26 @@
 [
   {
-    "name": "Fast 8",
-    "genre" : "Action",
-  },
-  {
     "name": "Wanted",
-    "genre" : "Adventure",
-    
+    "genre" : "Action",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
   },
   {
-    "name": "How High",
-    "genre" : "Comedy",
-    
+    "name": "Taken",
+    "genre" : "Action",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Ring",
+    "genre" : "Horror",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
   }
 ]
