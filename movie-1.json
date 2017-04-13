@@ -1,18 +1,17 @@
 [
   {
-    "name": "Wanted",
-    "genre" : "Action",
-
-   
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods":
   },
   {
-    "name": "Taken",
-    "genre" : "Action",
-    
+    "name": "Barky",
+    "species" : "dog",
+    "foods":
   },
   {
-    "name": "Ring",
-    "genre" : "Horror",
-    
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods":
   }
 ]
