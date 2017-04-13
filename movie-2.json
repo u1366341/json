@@ -2,16 +2,16 @@
   {
     "name": "Tanked",
     "genre" : "Series",
-    "foods": 
+    "released": "2008",
   },
   {
     "name": "Suits",
     "genre" : "Series",
-    "foods": 
+    "released": "2008", 
   },
   {
     "name": "Shooter",
     "genre" : "Series",
-    "foods": 
+    "released": "2008", 
   }
 ]
