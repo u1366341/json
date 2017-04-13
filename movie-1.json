@@ -2,25 +2,17 @@
   {
     "name": "Wanted",
     "genre" : "Action",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
+
+   
   },
   {
     "name": "Taken",
     "genre" : "Action",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
+    
   },
   {
     "name": "Ring",
     "genre" : "Horror",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
+    
   }
 ]
