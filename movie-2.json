@@ -2,25 +2,16 @@
   {
     "name": "Tanked",
     "genre" : "Series",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
+    "foods": 
   },
   {
     "name": "Suits",
     "genre" : "Series",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
+    "foods": 
   },
   {
     "name": "Shooter",
     "genre" : "Series",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
+    "foods": 
   }
 ]
