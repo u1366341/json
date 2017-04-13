@@ -2,25 +2,25 @@
   {
     "name": "Meowsy",
     "genre" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+    "a": {
+      "a": ["a", "a"],
+      "a": ["a", "a"]
     }
   },
   {
-    "name": "Barky",
-    "genre" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
+    "name": "ahdsgf",
+    "genre" : "iyture",
+    "a": {
+      "a": ["a", "a"],
+      "a": ["a"]
     }
   },
   {
     "name": "Purrpaws",
     "genre" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
+    "a": {
+      "a": ["a"],
+      "a": ["a"]
     }
   }
 ]
